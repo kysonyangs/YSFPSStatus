@@ -24,7 +24,7 @@
 }
 ```
 
-![]()
+![](https://github.com/kysonyangs/YSFPSStatus/blob/master/screenshot/on_window.png)
 
 ### YSFPSLabel 自定义使用
 ```
@@ -42,5 +42,5 @@
     return YES;
 }
 
-![]()
+![](https://github.com/kysonyangs/YSFPSStatus/blob/master/screenshot/on_view.png)
 ```
