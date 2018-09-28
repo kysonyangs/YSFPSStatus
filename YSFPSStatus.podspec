@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/kysonyangs/YSFPSStatus.git", :tag => "#{s.version}" }
   s.frameworks   = 'Foundation', 'UIKit'
   s.platform     = :ios, '7.0'
-  s.source_files  = "YSFPSStatus/YSFPSStatus/**/*.{h,m}"
+  s.source_files  = "YSFPSStatus/YSFPSStatus/*.{h,m}"
   s.requires_arc = true
 
 end
